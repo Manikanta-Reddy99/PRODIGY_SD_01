@@ -18,3 +18,14 @@ Allows conversions between Fahrenheit and Kelvin temperatures in both directions
 Ensures that the user inputs valid numeric values for temperature.
 
 Displays appropriate error messages for invalid input, such as non-numeric values.
+# Technologies used:
+# Core Java:
+Java I/O for reading user input from the console.
+
+Conditional statements (if-else, switch) for unit selection and conversion logic.
+
+Mathematical operations for performing the temperature conversions.
+
+Exception handling for managing invalid inputs.
+# JDK (Java Development Kit):
+The program is developed using the JDK, which provides the necessary libraries and tools to compile and run the program.
